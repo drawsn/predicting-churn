@@ -29,7 +29,6 @@ All details are present in the jupyter notebook included in this repository.
 ## File Descriptions <a name="files"></a>
 
 sparkify.ipynb > notebook to showcase work. Markdown cells and comments are used to assist in walking through the thought process for individual steps.
-mini_sparkify_event_data.json > subset of the sparkify dataset
 
 ## Results<a name="results"></a>
 The results show that we can predict churn with pretty good accuracy using logistic regression or gradient boosted tree. For both models the AUC score, used as one evaluation metric, was over 90%. The precision and F1 score also showed robust scores.
